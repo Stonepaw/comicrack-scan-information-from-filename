@@ -1,0 +1,18 @@
+Changelog v0.2: Support for some non-conventional scanner names. These include:
+Jojo
+YZ1
+WildBlueZero
+PeteThePIPster
+clickwheel
+Scalliwags
+Dragonz
+
+Changelog v0.3: Bugfix update, as the earlier version was not picking up Minutemen tags copmletely
+
+Changelog v0.4: Added user definable individual scanners, user definable prefix, tweaked the regex a bit, progress bar.
+
+Changelog v0.5: New regex by Helmic matches practically everything including individual scanners. As a result 0.5 is much faster than 0.4.
+
+Changelog v0.6: Updated blacklist includes months, languages and other things added by LO, Matches that match pre-existing metadata are thrown out, Matches that are part of the series, title, or alternate series are thrown out, a user editable black list added and several other tweaks.
+
+Changelog v0.7: Added an option for a tag to be entered when no scanner is found.

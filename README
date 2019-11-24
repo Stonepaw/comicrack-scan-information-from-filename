@@ -1,0 +1,13 @@
+Detects the Scanner from the filename.
+
+Based on the script by perezmu
+
+Authors: Perezmu, Stonepaw, 600WPMPO, Helmic
+
+
+How to use:
+Just double-click the crplugin file to install it into ComicRack.
+Select the book(s), whose scanner name you wish to import into the Scan Information field.
+Right-click, and from the Automation menu, click at 'Scan Information From Filename'
+
+Alternatively, select the desired books, and simply click at the icon on the browser toolbar:
